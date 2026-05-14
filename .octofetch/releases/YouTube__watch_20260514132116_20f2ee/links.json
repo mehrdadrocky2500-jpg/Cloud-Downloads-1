@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6065",
+  "folder": "YouTube__watch_20260514132116_20f2ee",
+  "base_name": "I_Shared_These_Trades_Live_Here_s_What_Happened_zZP7TmC81CQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/tag/co-releases-v1-6065",
+  "files": [
+    {
+      "name": "I_Shared_These_Trades_Live_Here_s_What_Happened_zZP7TmC81CQ_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/download/co-releases-v1-6065/I_Shared_These_Trades_Live_Here_s_What_Happened_zZP7TmC81CQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/assets/420176994",
+      "id": 420176994,
+      "size": 22310998,
+      "download_count": 0
+    }
+  ]
+}
