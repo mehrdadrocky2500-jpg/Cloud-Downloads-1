@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3925",
+  "folder": "YouTube__watch_20260514132010_d52599",
+  "base_name": "Gold_Big_Moves_April_Week_2_Trading_Analysis_Results_RC7Y7rIfE9I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/tag/co-releases-v1-3925",
+  "files": [
+    {
+      "name": "Gold_Big_Moves_April_Week_2_Trading_Analysis_Results_RC7Y7rIfE9I_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/download/co-releases-v1-3925/Gold_Big_Moves_April_Week_2_Trading_Analysis_Results_RC7Y7rIfE9I_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/assets/420176392",
+      "id": 420176392,
+      "size": 28872090,
+      "download_count": 0
+    }
+  ]
+}
