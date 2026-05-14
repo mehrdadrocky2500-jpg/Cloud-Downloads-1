@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8472",
+  "folder": "YouTube__watch_20260514124047_e26cea",
+  "base_name": "ARMA_3_Tutorial_Set_Up_Voice_Attack_For_Mouse_Clicks_TiiIx8LFQ5E_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/tag/co-releases-v1-8472",
+  "files": [
+    {
+      "name": "ARMA_3_Tutorial_Set_Up_Voice_Attack_For_Mouse_Clicks_TiiIx8LFQ5E_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/download/co-releases-v1-8472/ARMA_3_Tutorial_Set_Up_Voice_Attack_For_Mouse_Clicks_TiiIx8LFQ5E_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/assets/420152734",
+      "id": 420152734,
+      "size": 57815986,
+      "download_count": 0
+    }
+  ]
+}
