@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1399",
+  "folder": "YouTube__watch_20260514130411_10799a",
+  "base_name": "This_Fractal_Pattern_on_Gold_Predicts_the_Next_Move_nkoI_n3kFgw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/tag/co-releases-v1-1399",
+  "files": [
+    {
+      "name": "This_Fractal_Pattern_on_Gold_Predicts_the_Next_Move_nkoI_n3kFgw_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/download/co-releases-v1-1399/This_Fractal_Pattern_on_Gold_Predicts_the_Next_Move_nkoI_n3kFgw_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-1/releases/assets/420166351",
+      "id": 420166351,
+      "size": 41011293,
+      "download_count": 0
+    }
+  ]
+}
